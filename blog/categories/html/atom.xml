@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Html | My Octopress Blog]]></title>
   <link href="http://yangge99.github.io/blog/categories/html/atom.xml" rel="self"/>
   <link href="http://yangge99.github.io/"/>
-  <updated>2015-07-13T18:33:24+08:00</updated>
+  <updated>2015-07-13T18:50:14+08:00</updated>
   <id>http://yangge99.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -15,41 +15,32 @@
   
   <entry>
     <title type="html"><![CDATA[第一篇博客]]></title>
-    <link href="http://yangge99.github.io/blog/2015/07/13/jike/"/>
-    <updated>2015-07-13T17:25:58+08:00</updated>
-    <id>http://yangge99.github.io/blog/2015/07/13/jike</id>
-    <content type="html"><![CDATA[<h1>这里是一级标题</h1>
+    <link href="http://yangge99.github.io/blog/2015/07/13/index/"/>
+    <updated>2015-07-13T18:45:47+08:00</updated>
+    <id>http://yangge99.github.io/blog/2015/07/13/index</id>
+    <content type="html"><![CDATA[<h1>你好 octopress</h1>
 
-<h2>你可以是你想要的</h2>
+<h2>这是使用octopress写的第一篇博客</h2>
 
 <p><strong>加粗</strong></p>
 
 <p><code>标亮</code></p>
 
-<p>-android
- -http
--php
--html</p>
+<ul>
+<li>前端
 
-<blockquote><p>引用</p></blockquote>
+<ul>
+<li>html</li>
+<li>php</li>
+<li>bootstrap</li>
+</ul>
+</li>
+<li><p>php</p></li>
+<li><p>html</p></li>
+</ul>
 
-<p>[极客学院]（<a href="http://www.jikexueyuan.com%EF%BC%89">http://www.jikexueyuan.com%EF%BC%89</a></p>
 
-<p><img src="" alt="image" /></p>
-
-<pre><code>public class jike{
-    public static void main(String[] args){
-        System.out.println("hello word");
-  }
-}
-</code></pre>
-
-<pre><code class="java this is a java http://www link">public class jike{
-    public static void main(String[] args){
-        System.out.println("hello word");
-  }
-}
-</code></pre>
+<p>[博客连接]（<a href="http://yangge99.github.io%EF%BC%89">http://yangge99.github.io%EF%BC%89</a></p>
 ]]></content>
   </entry>
   

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://yangge99.github.io/atom.xml" rel="self"/>
+  <link href="http://yangge99.github.io/"/>
+  <updated>2015-07-13T18:50:14+08:00</updated>
+  <id>http://yangge99.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[第一篇博客]]></title>
+    <link href="http://yangge99.github.io/blog/2015/07/13/index/"/>
+    <updated>2015-07-13T18:45:47+08:00</updated>
+    <id>http://yangge99.github.io/blog/2015/07/13/index</id>
+    <content type="html"><![CDATA[<h1>你好 octopress</h1>
+
+<h2>这是使用octopress写的第一篇博客</h2>
+
+<p><strong>加粗</strong></p>
+
+<p><code>标亮</code></p>
+
+<ul>
+<li>前端
+
+<ul>
+<li>html</li>
+<li>php</li>
+<li>bootstrap</li>
+</ul>
+</li>
+<li><p>php</p></li>
+<li><p>html</p></li>
+</ul>
+
+
+<p>[博客连接]（<a href="http://yangge99.github.io%EF%BC%89">http://yangge99.github.io%EF%BC%89</a></p>
+]]></content>
+  </entry>
+  
+</feed>
